@@ -24,9 +24,9 @@ async function getApiGithub() {
             <!-- Texto da seção Sobre -->
             <article id="about_texto">
                 <h2>Sobre mim</h2>
-                <p>Mussum Ipsum, cacilds vidis litro abertis. Interagi no mé, cursus quis, vehicula ac nisi. Quem manda
-                    na minha terra sou euzis! A ordem dos tratores não altera o pão duris. Copo furadis é disculpa de
-                    bebadis, arcu quam euismod magna.</p>
+                <p>Olá! Eu sou Luiz Henrique, apaixonado por desenvolvimento e movido por desafios.
+Com experiências nas áreas administrativa e Desenvolvimento Web, trago comigo uma visão analítica e atenção aos detalhes, habilidades que somam muito no mundo do código.
+Atualmente me aprofundo em Java, Spring, React e MySQL, enquanto construo projetos práticos e sigo evoluindo rumo ao full-stack perfeito!.</p>
 
                 <div id="about_github" class="flex sobre_github">
                     <a href="${perfil.html_url}" target="_blank" class="botao">Github</a>
